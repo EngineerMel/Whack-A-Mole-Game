@@ -73,6 +73,10 @@ h1 {
 .button1 {
   -webkit-transition-duration: 0.4s;
   transition-duration: 0.4s;
+  font-size: 32px;
+  border-radius: 8px;
+  margin-left: 45%;
+  margin-top: 40px;
 }
 
 .button1:hover {
