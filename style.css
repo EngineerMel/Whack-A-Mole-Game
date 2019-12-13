@@ -1,7 +1,7 @@
 html {
   box-sizing: border-box;
   font-size: 10px;
-  background: #ffc600;
+  background: #80ced6;
 }
 
 *,
@@ -68,4 +68,14 @@ h1 {
 
 .hole.up .mole {
   top: 0;
+}
+
+.button1 {
+  -webkit-transition-duration: 0.4s;
+  transition-duration: 0.4s;
+}
+
+.button1:hover {
+  background-color: black;
+  color: #80ced6;
 }
